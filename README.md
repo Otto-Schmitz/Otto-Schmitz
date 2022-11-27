@@ -6,6 +6,6 @@ I am a computer science studant at UNISINOS (Universidade do Vale do Rio dos Sin
 
 ## 📬 Get in touch
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/otto-schmitz)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otto-schmitz-13b48322b/)
 
 
