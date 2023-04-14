@@ -2,7 +2,7 @@
 
 Hey! What's up?
 
-I am a computer science studant at UNISINOS (Universidade do Vale do Rio dos Sinos) from Brazil.
+I am a computer science student at UNISINOS (Universidade do Vale do Rio dos Sinos) from Brazil.
 
 ## 📬 Get in touch
 
