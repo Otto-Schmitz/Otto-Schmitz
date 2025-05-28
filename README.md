@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 👨🏻‍💻 Focused on backend development with **Java (Spring Boot)**, **Node.js**, and **PostgreSQL**
+- 👨🏻‍💻 Focused on backend development with **Java (Spring Boot)**, **Python**, **Node.js**, and **PostgreSQL**
 - 🔐 Interested in authentication (OAuth2, Keycloak), microservices, and software architecture
 - 🐳 Exploring **DevOps** practices with Docker and container orchestration
 - 📖 Always learning about clean architecture, automated testing, and new technologies
