@@ -16,15 +16,15 @@
 <tr>
 <td width="50%">
 
-### 🧭 Sobre mim
+### 🧭 About Me
 
-Sou estudante de **Ciência da Computação** na UNISINOS (Brasil) e foco em construir sistemas robustos e escaláveis.
+I'm a **Computer Science** student at UNISINOS (Brazil) and I focus on building robust and scalable systems.
 
-- 🔧 **Backend** com Java (Spring Boot), Python, Node.js e PostgreSQL  
-- 🔐 **Auth** & APIs: OAuth2, Keycloak, microserviços  
-- 🐳 **DevOps**: Docker, orquestração de containers  
-- 📚 Clean architecture, testes automatizados, boas práticas  
-- 🤖 Interesse em IA, segurança e ciência de dados  
+- 🔧 **Backend** with Java (Spring Boot), Python, Node.js, and PostgreSQL  
+- 🔐 **Auth** & APIs: OAuth2, Keycloak, microservices  
+- 🐳 **DevOps**: Docker, container orchestration  
+- 📚 Clean architecture, automated testing, best practices  
+- 🤖 Interested in AI, cybersecurity, and data science  
 
 </td>
 <td width="50%">
@@ -58,7 +58,7 @@ Sou estudante de **Ciência da Computação** na UNISINOS (Brasil) e foco em con
 
 <div align="center">
 
-### 📬 Onde me encontrar
+### 📬 Get in Touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Otto-Schmitz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otto-schmitz-13b48322b/)
@@ -79,6 +79,6 @@ Sou estudante de **Ciência da Computação** na UNISINOS (Brasil) e foco em con
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=80&section=footer&fontSize=14&fontColor=fff" width="100%"/>
 
-*Feito com ☕ e código no Brasil*
+*Made with ☕ and code in Brazil*
 
 </div>
